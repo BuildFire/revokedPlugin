@@ -1,0 +1,22 @@
+{
+  "author":"Daniel Hindi"
+,"pluginName":"Revoked Plugin"
+,"pluginDescription":"Revoked Plugin"
+,"supportEmail":"[Your support Email]"
+,"control":{
+  "content":{
+    "enabled":false
+  }
+, "design":{
+    "enabled":false
+  }
+, "settings":{
+    "enabled":false
+  }
+}
+,"widget":{
+
+},
+  "features" : [],
+  "languages" : ["en"]
+}
